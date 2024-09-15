@@ -34,7 +34,7 @@ There are 16 categories each with approx 500 tickets
 |       Display issue      |   478 |
 
 Other observations are captured in [EDA](EDA_CST.ipynb)
-The below approaches can be found in [Ticket_topic](Ticket_topic.ipynb)
+The below approaches can be found in [Ticket_topic](Ticket_Topic.ipynb)
 #### Approach 1
 I initially sought to convert these ticket description texts into embeddings using 4 approaches namely 
 - TF-IDF
